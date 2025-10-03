@@ -15,6 +15,7 @@ public class Main {
             bonusAmount = topUpAmount / bonusPer100;
         }
 
+
         finalBalance = initialBalance + topUpAmount + bonusAmount;
 
 
